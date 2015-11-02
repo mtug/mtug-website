@@ -8,7 +8,9 @@ Initail development will focus on the Donor functionality
 In order to run this project, you will need Node, Bower, and MongoDB installed.
 
 Node - https://nodejs.org/en/download/
+
 Bower - http://bower.io/
+
 MongoDB - https://docs.mongodb.org/manual/installation/
 
 
